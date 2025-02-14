@@ -4,13 +4,13 @@ No nosso site teremos algumas telas, delas teremos a - (Tela inicial, tela de co
 
 Tela inicial:
 
-[✓]- Cabeçalho: 
-[✓]    - Logo.
-[✓]    - 3 botões -
-[✓]        - Store (vai para a página principal da loja).
-[✓]        - Sobre (vai para o footer da página).
-[✓]        - Suporte (Abrirá outra página que mostrará sobre o site).
-[✓]    Botão de perfil ou de Entrar (se estiver deslogado, entrará pra tela de cadastro).
+- Cabeçalho: [✓]
+    - Logo. [✓]
+    - 3 botões - [✓]
+        - Store (vai para a página principal da loja). [✓]
+        - Sobre (vai para o footer da página). [✓]
+        - Suporte (Abrirá outra página que mostrará sobre o site). [✓]
+    Botão de perfil ou de Entrar (se estiver deslogado, entrará pra tela de cadastro). [✓]
 
 [✓]- Tela de produtos/tela principal:
 [✓]    - Banner inicial -
